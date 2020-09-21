@@ -1,0 +1,835 @@
+2020:09:06 01:55:38.337 afmobi_core_init: set phone info success
+2020:09:06 01:55:38.337 afmobi_os_mutex_create: db->mutex:0x812b8ed0
+2020:09:06 01:55:38.339 afmobi_core_init: init database manage success 
+2020:09:06 01:55:38.345 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 01:55:38.346 afmobi_core_init: SHARE 
+2020:09:06 02:02:50.531 afmobi_core_init: set phone info success
+2020:09:06 02:02:50.536 afmobi_os_mutex_create: db->mutex:0x812e8460
+2020:09:06 02:02:50.537 afmobi_core_init: init database manage success 
+2020:09:06 02:02:50.541 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 02:02:50.542 afmobi_core_init: SHARE 
+2020:09:06 06:30:31.200 afmobi_core_init: set phone info success
+2020:09:06 06:30:31.201 afmobi_os_mutex_create: db->mutex:0x80666478
+2020:09:06 06:30:31.201 afmobi_core_init: init database manage success 
+2020:09:06 06:30:31.206 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 06:30:31.206 afmobi_core_init: SHARE 
+2020:09:06 07:11:20.546 afmobi_core_init: set phone info success
+2020:09:06 07:11:20.552 afmobi_os_mutex_create: db->mutex:0x806f7430
+2020:09:06 07:11:20.552 afmobi_core_init: init database manage success 
+2020:09:06 07:11:20.558 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 07:11:20.558 afmobi_core_init: SHARE 
+2020:09:06 15:01:57.011 afmobi_core_init: set phone info success
+2020:09:06 15:01:57.012 afmobi_os_mutex_create: db->mutex:0x812ed4e0
+2020:09:06 15:01:57.012 afmobi_core_init: init database manage success 
+2020:09:06 15:01:57.017 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 15:01:57.017 afmobi_core_init: SHARE 
+2020:09:06 16:26:19.469 afmobi_core_init: set phone info success
+2020:09:06 16:26:19.474 afmobi_os_mutex_create: db->mutex:0x8069be98
+2020:09:06 16:26:19.474 afmobi_core_init: init database manage success 
+2020:09:06 16:26:19.484 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 16:26:19.485 afmobi_core_init: SHARE 
+2020:09:06 17:27:24.035 afmobi_core_init: set phone info success
+2020:09:06 17:27:24.049 afmobi_os_mutex_create: db->mutex:0x812b1e68
+2020:09:06 17:27:24.050 afmobi_core_init: init database manage success 
+2020:09:06 17:27:24.056 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 17:27:24.056 afmobi_core_init: SHARE 
+2020:09:06 17:57:33.952 afmobi_core_init: set phone info success
+2020:09:06 17:57:33.953 afmobi_os_mutex_create: db->mutex:0x7ffd0488
+2020:09:06 17:57:33.953 afmobi_core_init: init database manage success 
+2020:09:06 17:57:33.968 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 17:57:33.968 afmobi_core_init: SHARE 
+2020:09:06 18:28:10.007 afmobi_core_init: set phone info success
+2020:09:06 18:28:10.008 afmobi_os_mutex_create: db->mutex:0x812ec4b8
+2020:09:06 18:28:10.008 afmobi_core_init: init database manage success 
+2020:09:06 18:28:10.014 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 18:28:10.015 afmobi_core_init: SHARE 
+2020:09:06 18:58:47.608 afmobi_core_init: set phone info success
+2020:09:06 18:58:47.609 afmobi_os_mutex_create: db->mutex:0x812f2480
+2020:09:06 18:58:47.610 afmobi_core_init: init database manage success 
+2020:09:06 18:58:47.616 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 18:58:47.617 afmobi_core_init: SHARE 
+2020:09:06 19:35:05.488 afmobi_core_init: set phone info success
+2020:09:06 19:35:05.489 afmobi_os_mutex_create: db->mutex:0x812ea4b0
+2020:09:06 19:35:05.489 afmobi_core_init: init database manage success 
+2020:09:06 19:35:05.495 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 19:35:05.495 afmobi_core_init: SHARE 
+2020:09:06 20:16:13.387 afmobi_core_init: set phone info success
+2020:09:06 20:16:13.393 afmobi_os_mutex_create: db->mutex:0x80275410
+2020:09:06 20:16:13.415 afmobi_core_init: init database manage success 
+2020:09:06 20:16:13.462 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 20:16:13.482 afmobi_core_init: SHARE 
+2020:09:06 20:46:50.828 afmobi_core_init: set phone info success
+2020:09:06 20:46:50.830 afmobi_os_mutex_create: db->mutex:0x81332ea8
+2020:09:06 20:46:50.831 afmobi_core_init: init database manage success 
+2020:09:06 20:46:50.838 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 20:46:50.838 afmobi_core_init: SHARE 
+2020:09:06 21:21:30.124 afmobi_core_init: set phone info success
+2020:09:06 21:21:30.125 afmobi_os_mutex_create: db->mutex:0x805ca528
+2020:09:06 21:21:30.125 afmobi_core_init: init database manage success 
+2020:09:06 21:21:30.134 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 21:21:30.134 afmobi_core_init: SHARE 
+2020:09:06 22:28:43.338 afmobi_core_init: set phone info success
+2020:09:06 22:28:43.344 afmobi_os_mutex_create: db->mutex:0x812b5e70
+2020:09:06 22:28:43.344 afmobi_core_init: init database manage success 
+2020:09:06 22:28:43.370 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 22:28:43.370 afmobi_core_init: SHARE 
+2020:09:06 23:41:11.638 afmobi_core_init: set phone info success
+2020:09:06 23:41:11.639 afmobi_os_mutex_create: db->mutex:0x802dc4a8
+2020:09:06 23:41:11.639 afmobi_core_init: init database manage success 
+2020:09:06 23:41:11.644 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:06 23:41:11.644 afmobi_core_init: SHARE 
+2020:09:07 00:02:11.581 afmobi_core_init: set phone info success
+2020:09:07 00:02:11.590 afmobi_os_mutex_create: db->mutex:0x806d74a8
+2020:09:07 00:02:11.590 afmobi_core_init: init database manage success 
+2020:09:07 00:02:11.598 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 00:02:11.598 afmobi_core_init: SHARE 
+2020:09:07 00:33:42.103 afmobi_core_init: set phone info success
+2020:09:07 00:33:42.104 afmobi_os_mutex_create: db->mutex:0x807d44f8
+2020:09:07 00:33:42.105 afmobi_core_init: init database manage success 
+2020:09:07 00:33:42.111 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 00:33:42.112 afmobi_core_init: SHARE 
+2020:09:07 01:03:49.524 afmobi_core_init: set phone info success
+2020:09:07 01:03:49.528 afmobi_os_mutex_create: db->mutex:0x812ea4a8
+2020:09:07 01:03:49.529 afmobi_core_init: init database manage success 
+2020:09:07 01:03:49.535 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 01:03:49.535 afmobi_core_init: SHARE 
+2020:09:07 10:26:56.314 afmobi_core_init: set phone info success
+2020:09:07 10:26:56.316 afmobi_os_mutex_create: db->mutex:0x807d5558
+2020:09:07 10:26:56.316 afmobi_core_init: init database manage success 
+2020:09:07 10:26:56.332 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 10:26:56.332 afmobi_core_init: SHARE 
+2020:09:07 13:50:48.494 afmobi_core_init: set phone info success
+2020:09:07 13:50:48.503 afmobi_os_mutex_create: db->mutex:0x812f8480
+2020:09:07 13:50:48.504 afmobi_core_init: init database manage success 
+2020:09:07 13:50:48.515 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 13:50:48.516 afmobi_core_init: SHARE 
+2020:09:07 15:05:55.022 afmobi_core_init: set phone info success
+2020:09:07 15:05:55.026 afmobi_os_mutex_create: db->mutex:0x8064b4e8
+2020:09:07 15:05:55.026 afmobi_core_init: init database manage success 
+2020:09:07 15:05:55.032 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 15:05:55.032 afmobi_core_init: SHARE 
+2020:09:07 15:38:50.708 afmobi_core_init: set phone info success
+2020:09:07 15:38:50.728 afmobi_os_mutex_create: db->mutex:0x812b8e80
+2020:09:07 15:38:50.728 afmobi_core_init: init database manage success 
+2020:09:07 15:38:50.743 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 15:38:50.743 afmobi_core_init: SHARE 
+2020:09:07 17:36:26.841 afmobi_core_init: set phone info success
+2020:09:07 17:36:26.842 afmobi_os_mutex_create: db->mutex:0x803ef468
+2020:09:07 17:36:26.843 afmobi_core_init: init database manage success 
+2020:09:07 17:36:26.854 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 17:36:26.854 afmobi_core_init: SHARE 
+2020:09:07 18:01:49.187 afmobi_core_init: set phone info success
+2020:09:07 18:01:49.191 afmobi_os_mutex_create: db->mutex:0x80361490
+2020:09:07 18:01:49.192 afmobi_core_init: init database manage success 
+2020:09:07 18:01:49.205 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 18:01:49.205 afmobi_core_init: SHARE 
+2020:09:07 18:31:56.437 afmobi_core_init: set phone info success
+2020:09:07 18:31:56.442 afmobi_os_mutex_create: db->mutex:0x91f9b520
+2020:09:07 18:31:56.443 afmobi_core_init: init database manage success 
+2020:09:07 18:31:56.447 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 18:31:56.448 afmobi_core_init: SHARE 
+2020:09:07 18:33:37.537 afmobi_core_init: set phone info success
+2020:09:07 18:33:37.545 afmobi_os_mutex_create: db->mutex:0x812e54e0
+2020:09:07 18:33:37.545 afmobi_core_init: init database manage success 
+2020:09:07 18:33:37.554 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 18:33:37.555 afmobi_core_init: SHARE 
+2020:09:07 18:41:40.425 afmobi_core_init: set phone info success
+2020:09:07 18:41:40.426 afmobi_os_mutex_create: db->mutex:0x80662458
+2020:09:07 18:41:40.426 afmobi_core_init: init database manage success 
+2020:09:07 18:41:40.431 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 18:41:40.432 afmobi_core_init: SHARE 
+2020:09:07 19:12:02.711 afmobi_core_init: set phone info success
+2020:09:07 19:12:02.718 afmobi_os_mutex_create: db->mutex:0x802ace88
+2020:09:07 19:12:02.718 afmobi_core_init: init database manage success 
+2020:09:07 19:12:02.725 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 19:12:02.725 afmobi_core_init: SHARE 
+2020:09:07 19:14:02.277 afmobi_core_init: set phone info success
+2020:09:07 19:14:02.282 afmobi_os_mutex_create: db->mutex:0x80457400
+2020:09:07 19:14:02.283 afmobi_core_init: init database manage success 
+2020:09:07 19:14:02.287 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 19:14:02.288 afmobi_core_init: SHARE 
+2020:09:07 20:09:32.130 afmobi_core_init: set phone info success
+2020:09:07 20:09:32.131 afmobi_os_mutex_create: db->mutex:0x812b9ea8
+2020:09:07 20:09:32.132 afmobi_core_init: init database manage success 
+2020:09:07 20:09:32.143 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 20:09:32.144 afmobi_core_init: SHARE 
+2020:09:07 20:39:38.068 afmobi_core_init: set phone info success
+2020:09:07 20:39:38.070 afmobi_os_mutex_create: db->mutex:0x812ed4e8
+2020:09:07 20:39:38.070 afmobi_core_init: init database manage success 
+2020:09:07 20:39:38.075 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 20:39:38.076 afmobi_core_init: SHARE 
+2020:09:07 21:13:51.716 afmobi_core_init: set phone info success
+2020:09:07 21:13:51.722 afmobi_os_mutex_create: db->mutex:0x812e54a8
+2020:09:07 21:13:51.723 afmobi_core_init: init database manage success 
+2020:09:07 21:13:51.728 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 21:13:51.728 afmobi_core_init: SHARE 
+2020:09:07 21:44:06.834 afmobi_core_init: set phone info success
+2020:09:07 21:44:06.837 afmobi_os_mutex_create: db->mutex:0x812d9448
+2020:09:07 21:44:06.837 afmobi_core_init: init database manage success 
+2020:09:07 21:44:06.844 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 21:44:06.845 afmobi_core_init: SHARE 
+2020:09:07 22:15:17.220 afmobi_core_init: set phone info success
+2020:09:07 22:15:17.226 afmobi_os_mutex_create: db->mutex:0x803d5590
+2020:09:07 22:15:17.226 afmobi_core_init: init database manage success 
+2020:09:07 22:15:17.232 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 22:15:17.232 afmobi_core_init: SHARE 
+2020:09:07 22:46:04.189 afmobi_core_init: set phone info success
+2020:09:07 22:46:04.194 afmobi_os_mutex_create: db->mutex:0x806d0450
+2020:09:07 22:46:04.194 afmobi_core_init: init database manage success 
+2020:09:07 22:46:04.199 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:07 22:46:04.200 afmobi_core_init: SHARE 
+2020:09:08 00:01:21.458 afmobi_core_init: set phone info success
+2020:09:08 00:01:21.459 afmobi_os_mutex_create: db->mutex:0x806e63e0
+2020:09:08 00:01:21.460 afmobi_core_init: init database manage success 
+2020:09:08 00:01:21.476 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:08 00:01:21.476 afmobi_core_init: SHARE 
+2020:09:08 01:37:48.771 afmobi_core_init: set phone info success
+2020:09:08 01:37:48.776 afmobi_os_mutex_create: db->mutex:0x812ea4d8
+2020:09:08 01:37:48.777 afmobi_core_init: init database manage success 
+2020:09:08 01:37:48.784 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:08 01:37:48.785 afmobi_core_init: SHARE 
+2020:09:08 16:15:00.716 afmobi_core_init: set phone info success
+2020:09:08 16:15:00.723 afmobi_os_mutex_create: db->mutex:0x7cfdf6a8
+2020:09:08 16:15:00.723 afmobi_core_init: init database manage success 
+2020:09:08 16:15:00.732 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:08 16:15:00.733 afmobi_core_init: SHARE 
+2020:09:09 16:29:35.915 afmobi_core_init: set phone info success
+2020:09:09 16:29:35.920 afmobi_os_mutex_create: db->mutex:0x87b4a6c0
+2020:09:09 16:29:35.920 afmobi_core_init: init database manage success 
+2020:09:09 16:29:35.926 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:09 16:29:35.926 afmobi_core_init: SHARE 
+2020:09:09 17:36:55.981 afmobi_core_init: set phone info success
+2020:09:09 17:36:55.989 afmobi_os_mutex_create: db->mutex:0xaeb52640
+2020:09:09 17:36:55.996 afmobi_core_init: init database manage success 
+2020:09:09 17:36:56.008 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:09 17:36:56.009 afmobi_core_init: SHARE 
+2020:09:09 18:11:31.653 afmobi_core_init: set phone info success
+2020:09:09 18:11:31.659 afmobi_os_mutex_create: db->mutex:0x8866c688
+2020:09:09 18:11:31.659 afmobi_core_init: init database manage success 
+2020:09:09 18:11:31.665 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:09 18:11:31.665 afmobi_core_init: SHARE 
+2020:09:09 18:49:45.297 afmobi_core_init: set phone info success
+2020:09:09 18:49:45.298 afmobi_os_mutex_create: db->mutex:0x878556f0
+2020:09:09 18:49:45.299 afmobi_core_init: init database manage success 
+2020:09:09 18:49:45.304 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:09 18:49:45.304 afmobi_core_init: SHARE 
+2020:09:09 19:26:46.779 afmobi_core_init: set phone info success
+2020:09:09 19:26:46.790 afmobi_os_mutex_create: db->mutex:0xae814698
+2020:09:09 19:26:46.791 afmobi_core_init: init database manage success 
+2020:09:09 19:26:46.803 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:09 19:26:46.803 afmobi_core_init: SHARE 
+2020:09:09 20:00:39.421 afmobi_core_init: set phone info success
+2020:09:09 20:00:39.423 afmobi_os_mutex_create: db->mutex:0x87a54698
+2020:09:09 20:00:39.423 afmobi_core_init: init database manage success 
+2020:09:09 20:00:39.430 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:09 20:00:39.430 afmobi_core_init: SHARE 
+2020:09:10 18:44:12.169 afmobi_core_init: set phone info success
+2020:09:10 18:44:12.170 afmobi_os_mutex_create: db->mutex:0x88661698
+2020:09:10 18:44:12.171 afmobi_core_init: init database manage success 
+2020:09:10 18:44:12.176 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:10 18:44:12.177 afmobi_core_init: SHARE 
+2020:09:10 20:01:14.225 afmobi_core_init: set phone info success
+2020:09:10 20:01:14.226 afmobi_os_mutex_create: db->mutex:0x88668680
+2020:09:10 20:01:14.227 afmobi_core_init: init database manage success 
+2020:09:10 20:01:14.231 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:10 20:01:14.231 afmobi_core_init: SHARE 
+2020:09:11 00:28:39.871 afmobi_core_init: set phone info success
+2020:09:11 00:28:39.872 afmobi_os_mutex_create: db->mutex:0x87b5d640
+2020:09:11 00:28:39.872 afmobi_core_init: init database manage success 
+2020:09:11 00:28:39.881 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 00:28:39.881 afmobi_core_init: SHARE 
+2020:09:11 10:03:15.893 afmobi_core_init: set phone info success
+2020:09:11 10:03:15.907 afmobi_os_mutex_create: db->mutex:0x7ea695b0
+2020:09:11 10:03:15.907 afmobi_core_init: init database manage success 
+2020:09:11 10:03:15.919 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 10:03:15.922 afmobi_core_init: SHARE 
+2020:09:11 10:41:05.895 afmobi_core_init: set phone info success
+2020:09:11 10:41:05.897 afmobi_os_mutex_create: db->mutex:0x8f723528
+2020:09:11 10:41:05.897 afmobi_core_init: init database manage success 
+2020:09:11 10:41:05.903 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 10:41:05.903 afmobi_core_init: SHARE 
+2020:09:11 10:50:18.038 afmobi_core_init: set phone info success
+2020:09:11 10:50:18.040 afmobi_os_mutex_create: db->mutex:0x7df5e580
+2020:09:11 10:50:18.040 afmobi_core_init: init database manage success 
+2020:09:11 10:50:18.046 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 10:50:18.047 afmobi_core_init: SHARE 
+2020:09:11 12:00:21.169 afmobi_core_init: set phone info success
+2020:09:11 12:00:21.173 afmobi_os_mutex_create: db->mutex:0x7dece530
+2020:09:11 12:00:21.173 afmobi_core_init: init database manage success 
+2020:09:11 12:00:21.178 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 12:00:21.179 afmobi_core_init: SHARE 
+2020:09:11 12:46:45.937 afmobi_core_init: set phone info success
+2020:09:11 12:46:45.943 afmobi_os_mutex_create: db->mutex:0x7ea6d590
+2020:09:11 12:46:45.943 afmobi_core_init: init database manage success 
+2020:09:11 12:46:45.948 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 12:46:45.948 afmobi_core_init: SHARE 
+2020:09:11 13:21:52.967 afmobi_core_init: set phone info success
+2020:09:11 13:21:52.978 afmobi_os_mutex_create: db->mutex:0x8f71d538
+2020:09:11 13:21:52.978 afmobi_core_init: init database manage success 
+2020:09:11 13:21:52.983 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 13:21:52.984 afmobi_core_init: SHARE 
+2020:09:11 20:44:07.008 afmobi_core_init: set phone info success
+2020:09:11 20:44:07.011 afmobi_os_mutex_create: db->mutex:0x859534a0
+2020:09:11 20:44:07.012 afmobi_core_init: init database manage success 
+2020:09:11 20:44:07.017 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 20:44:07.017 afmobi_core_init: SHARE 
+2020:09:11 21:14:11.223 afmobi_core_init: set phone info success
+2020:09:11 21:14:11.225 afmobi_os_mutex_create: db->mutex:0x8594c508
+2020:09:11 21:14:11.225 afmobi_core_init: init database manage success 
+2020:09:11 21:14:11.229 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:11 21:14:11.230 afmobi_core_init: SHARE 
+2020:09:12 18:00:11.302 afmobi_core_init: set phone info success
+2020:09:12 18:00:11.304 afmobi_os_mutex_create: db->mutex:0x85947490
+2020:09:12 18:00:11.304 afmobi_core_init: init database manage success 
+2020:09:12 18:00:11.308 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:12 18:00:11.309 afmobi_core_init: SHARE 
+2020:09:12 18:12:00.407 afmobi_core_init: set phone info success
+2020:09:12 18:12:00.415 afmobi_os_mutex_create: db->mutex:0x85639ef8
+2020:09:12 18:12:00.415 afmobi_core_init: init database manage success 
+2020:09:12 18:12:00.427 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:12 18:12:00.430 afmobi_core_init: SHARE 
+2020:09:12 18:16:01.128 afmobi_core_init: set phone info success
+2020:09:12 18:16:01.134 afmobi_os_mutex_create: db->mutex:0x85633e70
+2020:09:12 18:16:01.134 afmobi_core_init: init database manage success 
+2020:09:12 18:16:01.140 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:12 18:16:01.141 afmobi_core_init: SHARE 
+2020:09:12 19:11:31.138 afmobi_core_init: set phone info success
+2020:09:12 19:11:31.141 afmobi_os_mutex_create: db->mutex:0x8594d4d8
+2020:09:12 19:11:31.141 afmobi_core_init: init database manage success 
+2020:09:12 19:11:31.178 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:12 19:11:31.178 afmobi_core_init: SHARE 
+2020:09:13 17:07:12.577 afmobi_core_init: set phone info success
+2020:09:13 17:07:12.583 afmobi_os_mutex_create: db->mutex:0x86566508
+2020:09:13 17:07:12.583 afmobi_core_init: init database manage success 
+2020:09:13 17:07:12.588 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:13 17:07:12.588 afmobi_core_init: SHARE 
+2020:09:13 18:00:12.575 afmobi_core_init: set phone info success
+2020:09:13 18:00:12.577 afmobi_os_mutex_create: db->mutex:0x858c54d0
+2020:09:13 18:00:12.577 afmobi_core_init: init database manage success 
+2020:09:13 18:00:12.583 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:13 18:00:12.583 afmobi_core_init: SHARE 
+2020:09:13 19:18:30.531 afmobi_core_init: set phone info success
+2020:09:13 19:18:30.547 afmobi_os_mutex_create: db->mutex:0x85660508
+2020:09:13 19:18:30.548 afmobi_core_init: init database manage success 
+2020:09:13 19:18:30.564 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:13 19:18:30.564 afmobi_core_init: SHARE 
+2020:09:13 20:01:06.875 afmobi_core_init: set phone info success
+2020:09:13 20:01:06.876 afmobi_os_mutex_create: db->mutex:0x86568508
+2020:09:13 20:01:06.877 afmobi_core_init: init database manage success 
+2020:09:13 20:01:06.881 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:13 20:01:06.881 afmobi_core_init: SHARE 
+2020:09:13 20:31:13.664 afmobi_core_init: set phone info success
+2020:09:13 20:31:13.666 afmobi_os_mutex_create: db->mutex:0x85851440
+2020:09:13 20:31:13.666 afmobi_core_init: init database manage success 
+2020:09:13 20:31:13.674 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:13 20:31:13.674 afmobi_core_init: SHARE 
+2020:09:13 21:07:14.660 afmobi_core_init: set phone info success
+2020:09:13 21:07:14.665 afmobi_os_mutex_create: db->mutex:0x9721d460
+2020:09:13 21:07:14.665 afmobi_core_init: init database manage success 
+2020:09:13 21:07:14.672 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:13 21:07:14.672 afmobi_core_init: SHARE 
+2020:09:14 00:37:48.089 afmobi_core_init: set phone info success
+2020:09:14 00:37:48.094 afmobi_os_mutex_create: db->mutex:0x8555d4b8
+2020:09:14 00:37:48.094 afmobi_core_init: init database manage success 
+2020:09:14 00:37:48.100 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 00:37:48.101 afmobi_core_init: SHARE 
+2020:09:14 07:38:04.984 afmobi_core_init: set phone info success
+2020:09:14 07:38:04.985 afmobi_os_mutex_create: db->mutex:0x8565e488
+2020:09:14 07:38:04.985 afmobi_core_init: init database manage success 
+2020:09:14 07:38:04.990 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 07:38:04.990 afmobi_core_init: SHARE 
+2020:09:14 08:30:08.658 afmobi_core_init: set phone info success
+2020:09:14 08:30:08.659 afmobi_os_mutex_create: db->mutex:0x85664490
+2020:09:14 08:30:08.659 afmobi_core_init: init database manage success 
+2020:09:14 08:30:08.666 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 08:30:08.666 afmobi_core_init: SHARE 
+2020:09:14 09:12:39.933 afmobi_core_init: set phone info success
+2020:09:14 09:12:39.941 afmobi_os_mutex_create: db->mutex:0x8657a408
+2020:09:14 09:12:39.942 afmobi_core_init: init database manage success 
+2020:09:14 09:12:40.008 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 09:12:40.008 afmobi_core_init: SHARE 
+2020:09:14 09:45:09.812 afmobi_core_init: set phone info success
+2020:09:14 09:45:09.814 afmobi_os_mutex_create: db->mutex:0x8540ee20
+2020:09:14 09:45:09.815 afmobi_core_init: init database manage success 
+2020:09:14 09:45:09.821 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 09:45:09.821 afmobi_core_init: SHARE 
+2020:09:14 10:56:10.347 afmobi_core_init: set phone info success
+2020:09:14 10:56:10.349 afmobi_os_mutex_create: db->mutex:0x8565a460
+2020:09:14 10:56:10.349 afmobi_core_init: init database manage success 
+2020:09:14 10:56:10.356 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 10:56:10.357 afmobi_core_init: SHARE 
+2020:09:14 12:40:40.868 afmobi_core_init: set phone info success
+2020:09:14 12:40:40.870 afmobi_os_mutex_create: db->mutex:0x8594a478
+2020:09:14 12:40:40.870 afmobi_core_init: init database manage success 
+2020:09:14 12:40:40.917 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 12:40:40.918 afmobi_core_init: SHARE 
+2020:09:14 15:18:39.055 afmobi_core_init: set phone info success
+2020:09:14 15:18:39.063 afmobi_os_mutex_create: db->mutex:0x8549fdd8
+2020:09:14 15:18:39.064 afmobi_core_init: init database manage success 
+2020:09:14 15:18:39.092 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 15:18:39.095 afmobi_core_init: SHARE 
+2020:09:14 16:15:32.565 afmobi_core_init: set phone info success
+2020:09:14 16:15:32.571 afmobi_os_mutex_create: db->mutex:0x85616e68
+2020:09:14 16:15:32.571 afmobi_core_init: init database manage success 
+2020:09:14 16:15:32.578 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 16:15:32.578 afmobi_core_init: SHARE 
+2020:09:14 16:48:36.343 afmobi_core_init: set phone info success
+2020:09:14 16:48:36.377 afmobi_os_mutex_create: db->mutex:0x86534e20
+2020:09:14 16:48:36.377 afmobi_core_init: init database manage success 
+2020:09:14 16:48:36.386 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 16:48:36.386 afmobi_core_init: SHARE 
+2020:09:14 17:19:13.326 afmobi_core_init: set phone info success
+2020:09:14 17:19:13.329 afmobi_os_mutex_create: db->mutex:0x86564460
+2020:09:14 17:19:13.330 afmobi_core_init: init database manage success 
+2020:09:14 17:19:13.338 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 17:19:13.338 afmobi_core_init: SHARE 
+2020:09:14 19:15:07.358 afmobi_core_init: set phone info success
+2020:09:14 19:15:07.361 afmobi_os_mutex_create: db->mutex:0x8572ce80
+2020:09:14 19:15:07.362 afmobi_core_init: init database manage success 
+2020:09:14 19:15:07.367 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 19:15:07.367 afmobi_core_init: SHARE 
+2020:09:14 20:09:42.022 afmobi_core_init: set phone info success
+2020:09:14 20:09:42.023 afmobi_os_mutex_create: db->mutex:0x858d8540
+2020:09:14 20:09:42.024 afmobi_core_init: init database manage success 
+2020:09:14 20:09:42.030 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 20:09:42.030 afmobi_core_init: SHARE 
+2020:09:14 20:52:16.085 afmobi_core_init: set phone info success
+2020:09:14 20:52:16.093 afmobi_os_mutex_create: db->mutex:0x859554c0
+2020:09:14 20:52:16.093 afmobi_core_init: init database manage success 
+2020:09:14 20:52:16.113 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 20:52:16.113 afmobi_core_init: SHARE 
+2020:09:14 21:22:46.377 afmobi_core_init: set phone info success
+2020:09:14 21:22:46.382 afmobi_os_mutex_create: db->mutex:0x9722d438
+2020:09:14 21:22:46.383 afmobi_core_init: init database manage success 
+2020:09:14 21:22:46.388 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:14 21:22:46.389 afmobi_core_init: SHARE 
+2020:09:15 00:06:45.391 afmobi_core_init: set phone info success
+2020:09:15 00:06:45.395 afmobi_os_mutex_create: db->mutex:0x972134e8
+2020:09:15 00:06:45.395 afmobi_core_init: init database manage success 
+2020:09:15 00:06:45.400 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:15 00:06:45.401 afmobi_core_init: SHARE 
+2020:09:15 11:17:58.996 afmobi_core_init: set phone info success
+2020:09:15 11:17:58.997 afmobi_os_mutex_create: db->mutex:0x972164a8
+2020:09:15 11:17:58.998 afmobi_core_init: init database manage success 
+2020:09:15 11:17:59.002 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:15 11:17:59.002 afmobi_core_init: SHARE 
+2020:09:15 16:42:11.979 afmobi_core_init: set phone info success
+2020:09:15 16:42:11.980 afmobi_os_mutex_create: db->mutex:0x859474e8
+2020:09:15 16:42:11.981 afmobi_core_init: init database manage success 
+2020:09:15 16:42:11.985 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:15 16:42:11.986 afmobi_core_init: SHARE 
+2020:09:15 18:16:59.989 afmobi_core_init: set phone info success
+2020:09:15 18:16:59.995 afmobi_os_mutex_create: db->mutex:0x86576420
+2020:09:15 18:16:59.996 afmobi_core_init: init database manage success 
+2020:09:15 18:17:00.001 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:15 18:17:00.002 afmobi_core_init: SHARE 
+2020:09:15 19:00:31.165 afmobi_core_init: set phone info success
+2020:09:15 19:00:31.167 afmobi_os_mutex_create: db->mutex:0x85851438
+2020:09:15 19:00:31.167 afmobi_core_init: init database manage success 
+2020:09:15 19:00:31.172 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:15 19:00:31.172 afmobi_core_init: SHARE 
+2020:09:15 19:52:23.161 afmobi_core_init: set phone info success
+2020:09:15 19:52:23.167 afmobi_os_mutex_create: db->mutex:0x85697df8
+2020:09:15 19:52:23.167 afmobi_core_init: init database manage success 
+2020:09:15 19:52:23.173 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:15 19:52:23.173 afmobi_core_init: SHARE 
+2020:09:15 20:55:32.443 afmobi_core_init: set phone info success
+2020:09:15 20:55:32.450 afmobi_os_mutex_create: db->mutex:0x8656e410
+2020:09:15 20:55:32.450 afmobi_core_init: init database manage success 
+2020:09:15 20:55:32.458 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:15 20:55:32.459 afmobi_core_init: SHARE 
+2020:09:15 23:04:36.386 afmobi_core_init: set phone info success
+2020:09:15 23:04:36.405 afmobi_os_mutex_create: db->mutex:0x86336f20
+2020:09:15 23:04:36.433 afmobi_core_init: init database manage success 
+2020:09:15 23:04:36.456 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:15 23:04:36.477 afmobi_core_init: SHARE 
+2020:09:16 08:42:49.393 afmobi_core_init: set phone info success
+2020:09:16 08:42:49.398 afmobi_os_mutex_create: db->mutex:0x8656b4a8
+2020:09:16 08:42:49.399 afmobi_core_init: init database manage success 
+2020:09:16 08:42:49.406 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 08:42:49.406 afmobi_core_init: SHARE 
+2020:09:16 09:48:38.201 afmobi_core_init: set phone info success
+2020:09:16 09:48:38.213 afmobi_os_mutex_create: db->mutex:0x85483eb0
+2020:09:16 09:48:38.214 afmobi_core_init: init database manage success 
+2020:09:16 09:48:38.230 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 09:48:38.231 afmobi_core_init: SHARE 
+2020:09:16 11:44:54.871 afmobi_core_init: set phone info success
+2020:09:16 11:44:54.872 afmobi_os_mutex_create: db->mutex:0x855e5480
+2020:09:16 11:44:54.872 afmobi_core_init: init database manage success 
+2020:09:16 11:44:54.881 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 11:44:54.881 afmobi_core_init: SHARE 
+2020:09:16 12:27:36.347 afmobi_core_init: set phone info success
+2020:09:16 12:27:36.349 afmobi_os_mutex_create: db->mutex:0x85970408
+2020:09:16 12:27:36.349 afmobi_core_init: init database manage success 
+2020:09:16 12:27:36.354 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 12:27:36.354 afmobi_core_init: SHARE 
+2020:09:16 14:41:13.676 afmobi_core_init: set phone info success
+2020:09:16 14:41:13.678 afmobi_os_mutex_create: db->mutex:0x86564480
+2020:09:16 14:41:13.678 afmobi_core_init: init database manage success 
+2020:09:16 14:41:13.682 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 14:41:13.683 afmobi_core_init: SHARE 
+2020:09:16 15:14:18.824 afmobi_core_init: set phone info success
+2020:09:16 15:14:18.850 afmobi_os_mutex_create: db->mutex:0x854a1ee0
+2020:09:16 15:14:18.850 afmobi_core_init: init database manage success 
+2020:09:16 15:14:18.863 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 15:14:18.863 afmobi_core_init: SHARE 
+2020:09:16 15:48:41.195 afmobi_core_init: set phone info success
+2020:09:16 15:48:41.197 afmobi_os_mutex_create: db->mutex:0x854cc478
+2020:09:16 15:48:41.197 afmobi_core_init: init database manage success 
+2020:09:16 15:48:41.236 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 15:48:41.236 afmobi_core_init: SHARE 
+2020:09:16 17:17:39.968 afmobi_core_init: set phone info success
+2020:09:16 17:17:39.972 afmobi_os_mutex_create: db->mutex:0x856674d0
+2020:09:16 17:17:39.972 afmobi_core_init: init database manage success 
+2020:09:16 17:17:39.979 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 17:17:39.981 afmobi_core_init: SHARE 
+2020:09:16 18:10:08.081 afmobi_core_init: set phone info success
+2020:09:16 18:10:08.085 afmobi_os_mutex_create: db->mutex:0x8558ae78
+2020:09:16 18:10:08.087 afmobi_core_init: init database manage success 
+2020:09:16 18:10:08.113 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 18:10:08.114 afmobi_core_init: SHARE 
+2020:09:16 19:24:34.214 afmobi_core_init: set phone info success
+2020:09:16 19:24:34.215 afmobi_os_mutex_create: db->mutex:0x865e85a0
+2020:09:16 19:24:34.215 afmobi_core_init: init database manage success 
+2020:09:16 19:24:34.223 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 19:24:34.224 afmobi_core_init: SHARE 
+2020:09:16 20:34:19.462 afmobi_core_init: set phone info success
+2020:09:16 20:34:19.464 afmobi_os_mutex_create: db->mutex:0x8594f4e0
+2020:09:16 20:34:19.464 afmobi_core_init: init database manage success 
+2020:09:16 20:34:19.469 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 20:34:19.469 afmobi_core_init: SHARE 
+2020:09:16 21:49:15.757 afmobi_core_init: set phone info success
+2020:09:16 21:49:15.767 afmobi_os_mutex_create: db->mutex:0x858e8470
+2020:09:16 21:49:15.768 afmobi_core_init: init database manage success 
+2020:09:16 21:49:15.792 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 21:49:15.792 afmobi_core_init: SHARE 
+2020:09:16 22:14:08.643 afmobi_core_init: set phone info success
+2020:09:16 22:14:08.649 afmobi_os_mutex_create: db->mutex:0x857654b0
+2020:09:16 22:14:08.649 afmobi_core_init: init database manage success 
+2020:09:16 22:14:08.654 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:16 22:14:08.654 afmobi_core_init: SHARE 
+2020:09:17 02:41:31.480 afmobi_core_init: set phone info success
+2020:09:17 02:41:31.481 afmobi_os_mutex_create: db->mutex:0xaca7fe58
+2020:09:17 02:41:31.481 afmobi_core_init: init database manage success 
+2020:09:17 02:41:31.486 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 02:41:31.487 afmobi_core_init: SHARE 
+2020:09:17 15:25:02.260 afmobi_core_init: set phone info success
+2020:09:17 15:25:02.268 afmobi_os_mutex_create: db->mutex:0x865754e0
+2020:09:17 15:25:02.268 afmobi_core_init: init database manage success 
+2020:09:17 15:25:02.296 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 15:25:02.297 afmobi_core_init: SHARE 
+2020:09:17 18:45:05.188 afmobi_core_init: set phone info success
+2020:09:17 18:45:05.203 afmobi_os_mutex_create: db->mutex:0x854da4a0
+2020:09:17 18:45:05.203 afmobi_core_init: init database manage success 
+2020:09:17 18:45:05.208 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 18:45:05.208 afmobi_core_init: SHARE 
+2020:09:17 19:26:19.657 afmobi_core_init: set phone info success
+2020:09:17 19:26:19.699 afmobi_os_mutex_create: db->mutex:0xa315c430
+2020:09:17 19:26:19.700 afmobi_core_init: init database manage success 
+2020:09:17 19:26:19.709 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 19:26:19.710 afmobi_core_init: SHARE 
+2020:09:17 19:58:26.843 afmobi_core_init: set phone info success
+2020:09:17 19:58:26.845 afmobi_os_mutex_create: db->mutex:0x85953470
+2020:09:17 19:58:26.845 afmobi_core_init: init database manage success 
+2020:09:17 19:58:26.850 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 19:58:26.850 afmobi_core_init: SHARE 
+2020:09:17 20:30:04.649 afmobi_core_init: set phone info success
+2020:09:17 20:30:04.651 afmobi_os_mutex_create: db->mutex:0x865e7560
+2020:09:17 20:30:04.651 afmobi_core_init: init database manage success 
+2020:09:17 20:30:04.659 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 20:30:04.660 afmobi_core_init: SHARE 
+2020:09:17 21:03:02.143 afmobi_core_init: set phone info success
+2020:09:17 21:03:02.147 afmobi_os_mutex_create: db->mutex:0x865bcee8
+2020:09:17 21:03:02.147 afmobi_core_init: init database manage success 
+2020:09:17 21:03:02.152 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 21:03:02.153 afmobi_core_init: SHARE 
+2020:09:17 21:39:12.485 afmobi_core_init: set phone info success
+2020:09:17 21:39:12.490 afmobi_os_mutex_create: db->mutex:0xaca1d4e8
+2020:09:17 21:39:12.490 afmobi_core_init: init database manage success 
+2020:09:17 21:39:12.496 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 21:39:12.496 afmobi_core_init: SHARE 
+2020:09:17 22:11:22.777 afmobi_core_init: set phone info success
+2020:09:17 22:11:22.779 afmobi_os_mutex_create: db->mutex:0x8575d510
+2020:09:17 22:11:22.780 afmobi_core_init: init database manage success 
+2020:09:17 22:11:22.802 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:17 22:11:22.802 afmobi_core_init: SHARE 
+2020:09:18 08:40:13.664 afmobi_core_init: set phone info success
+2020:09:18 08:40:13.670 afmobi_os_mutex_create: db->mutex:0x8549edb0
+2020:09:18 08:40:13.671 afmobi_core_init: init database manage success 
+2020:09:18 08:40:13.681 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:18 08:40:13.681 afmobi_core_init: SHARE 
+2020:09:18 12:34:27.910 afmobi_core_init: set phone info success
+2020:09:18 12:34:27.912 afmobi_os_mutex_create: db->mutex:0x859f0418
+2020:09:18 12:34:27.913 afmobi_core_init: init database manage success 
+2020:09:18 12:34:27.919 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:18 12:34:27.920 afmobi_core_init: SHARE 
+2020:09:18 19:10:07.712 afmobi_core_init: set phone info success
+2020:09:18 19:10:07.718 afmobi_os_mutex_create: db->mutex:0x859c64f0
+2020:09:18 19:10:07.719 afmobi_core_init: init database manage success 
+2020:09:18 19:10:07.726 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:18 19:10:07.726 afmobi_core_init: SHARE 
+2020:09:19 17:11:20.980 afmobi_core_init: set phone info success
+2020:09:19 17:11:20.985 afmobi_os_mutex_create: db->mutex:0x7f5cd5a8
+2020:09:19 17:11:20.986 afmobi_core_init: init database manage success 
+2020:09:19 17:11:21.016 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 17:11:21.016 afmobi_core_init: SHARE 
+2020:09:19 18:21:03.341 afmobi_core_init: set phone info success
+2020:09:19 18:21:03.370 afmobi_os_mutex_create: db->mutex:0x7f44a588
+2020:09:19 18:21:03.370 afmobi_core_init: init database manage success 
+2020:09:19 18:21:03.403 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 18:21:03.403 afmobi_core_init: SHARE 
+2020:09:19 19:32:36.852 afmobi_core_init: set phone info success
+2020:09:19 19:32:36.857 afmobi_os_mutex_create: db->mutex:0x7e863570
+2020:09:19 19:32:36.858 afmobi_core_init: init database manage success 
+2020:09:19 19:32:36.862 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 19:32:36.863 afmobi_core_init: SHARE 
+2020:09:19 20:06:52.095 afmobi_core_init: set phone info success
+2020:09:19 20:06:52.100 afmobi_os_mutex_create: db->mutex:0x7e85b588
+2020:09:19 20:06:52.101 afmobi_core_init: init database manage success 
+2020:09:19 20:06:52.114 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 20:06:52.115 afmobi_core_init: SHARE 
+2020:09:19 20:44:19.750 afmobi_core_init: set phone info success
+2020:09:19 20:44:19.751 afmobi_os_mutex_create: db->mutex:0x9bffdef8
+2020:09:19 20:44:19.751 afmobi_core_init: init database manage success 
+2020:09:19 20:44:19.756 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 20:44:19.756 afmobi_core_init: SHARE 
+2020:09:19 21:31:59.204 afmobi_core_init: set phone info success
+2020:09:19 21:31:59.210 afmobi_os_mutex_create: db->mutex:0x9bfe34f0
+2020:09:19 21:31:59.210 afmobi_core_init: init database manage success 
+2020:09:19 21:31:59.221 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 21:31:59.222 afmobi_core_init: SHARE 
+2020:09:19 22:06:43.959 afmobi_core_init: set phone info success
+2020:09:19 22:06:43.960 afmobi_os_mutex_create: db->mutex:0x7e3d1528
+2020:09:19 22:06:43.961 afmobi_core_init: init database manage success 
+2020:09:19 22:06:43.967 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 22:06:43.968 afmobi_core_init: SHARE 
+2020:09:19 22:47:51.489 afmobi_core_init: set phone info success
+2020:09:19 22:47:51.494 afmobi_os_mutex_create: db->mutex:0x90095578
+2020:09:19 22:47:51.494 afmobi_core_init: init database manage success 
+2020:09:19 22:47:51.507 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 22:47:51.508 afmobi_core_init: SHARE 
+2020:09:19 23:23:20.421 afmobi_core_init: set phone info success
+2020:09:19 23:23:20.441 afmobi_os_mutex_create: db->mutex:0x90099f10
+2020:09:19 23:23:20.441 afmobi_core_init: init database manage success 
+2020:09:19 23:23:20.448 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:19 23:23:20.449 afmobi_core_init: SHARE 
+2020:09:20 00:01:09.699 afmobi_core_init: set phone info success
+2020:09:20 00:01:10.065 afmobi_os_mutex_create: db->mutex:0x7e7a5f68
+2020:09:20 00:01:10.071 afmobi_core_init: init database manage success 
+2020:09:20 00:01:10.302 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 00:01:10.304 afmobi_core_init: SHARE 
+2020:09:20 00:31:12.036 afmobi_core_init: set phone info success
+2020:09:20 00:31:12.046 afmobi_os_mutex_create: db->mutex:0x7e5d85a8
+2020:09:20 00:31:12.046 afmobi_core_init: init database manage success 
+2020:09:20 00:31:12.062 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 00:31:12.062 afmobi_core_init: SHARE 
+2020:09:20 00:58:07.064 afmobi_core_init: set phone info success
+2020:09:20 00:58:07.071 afmobi_os_mutex_create: db->mutex:0x7f85c5f8
+2020:09:20 00:58:07.072 afmobi_core_init: init database manage success 
+2020:09:20 00:58:07.079 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 00:58:07.079 afmobi_core_init: SHARE 
+2020:09:20 00:59:29.616 afmobi_core_init: set phone info success
+2020:09:20 00:59:29.629 afmobi_os_mutex_create: db->mutex:0x7e8cf568
+2020:09:20 00:59:29.630 afmobi_core_init: init database manage success 
+2020:09:20 00:59:29.641 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 00:59:29.641 afmobi_core_init: SHARE 
+2020:09:20 01:30:05.081 afmobi_core_init: set phone info success
+2020:09:20 01:30:05.086 afmobi_os_mutex_create: db->mutex:0x7e793f10
+2020:09:20 01:30:05.087 afmobi_core_init: init database manage success 
+2020:09:20 01:30:05.109 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 01:30:05.109 afmobi_core_init: SHARE 
+2020:09:20 02:03:23.633 afmobi_core_init: set phone info success
+2020:09:20 02:03:23.634 afmobi_os_mutex_create: db->mutex:0x7e8d7598
+2020:09:20 02:03:23.634 afmobi_core_init: init database manage success 
+2020:09:20 02:03:23.640 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 02:03:23.640 afmobi_core_init: SHARE 
+2020:09:20 05:42:24.378 afmobi_core_init: set phone info success
+2020:09:20 05:42:24.383 afmobi_os_mutex_create: db->mutex:0x7e4d7570
+2020:09:20 05:42:24.384 afmobi_core_init: init database manage success 
+2020:09:20 05:42:24.389 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 05:42:24.389 afmobi_core_init: SHARE 
+2020:09:20 06:18:58.119 afmobi_core_init: set phone info success
+2020:09:20 06:18:58.121 afmobi_os_mutex_create: db->mutex:0x7e7d4560
+2020:09:20 06:18:58.121 afmobi_core_init: init database manage success 
+2020:09:20 06:18:58.126 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 06:18:58.127 afmobi_core_init: SHARE 
+2020:09:20 06:50:35.105 afmobi_core_init: set phone info success
+2020:09:20 06:50:35.109 afmobi_os_mutex_create: db->mutex:0x7f825f28
+2020:09:20 06:50:35.109 afmobi_core_init: init database manage success 
+2020:09:20 06:50:35.128 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 06:50:35.129 afmobi_core_init: SHARE 
+2020:09:20 07:20:56.932 afmobi_core_init: set phone info success
+2020:09:20 07:20:56.934 afmobi_os_mutex_create: db->mutex:0x7f47f5a8
+2020:09:20 07:20:56.934 afmobi_core_init: init database manage success 
+2020:09:20 07:20:56.940 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 07:20:56.940 afmobi_core_init: SHARE 
+2020:09:20 08:08:55.260 afmobi_core_init: set phone info success
+2020:09:20 08:08:55.263 afmobi_os_mutex_create: db->mutex:0x7f46f598
+2020:09:20 08:08:55.263 afmobi_core_init: init database manage success 
+2020:09:20 08:08:55.269 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 08:08:55.270 afmobi_core_init: SHARE 
+2020:09:20 08:44:04.588 afmobi_core_init: set phone info success
+2020:09:20 08:44:04.590 afmobi_os_mutex_create: db->mutex:0x7f57f5d8
+2020:09:20 08:44:04.591 afmobi_core_init: init database manage success 
+2020:09:20 08:44:04.602 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 08:44:04.602 afmobi_core_init: SHARE 
+2020:09:20 09:14:24.546 afmobi_core_init: set phone info success
+2020:09:20 09:14:24.551 afmobi_os_mutex_create: db->mutex:0x7f5725f8
+2020:09:20 09:14:24.551 afmobi_core_init: init database manage success 
+2020:09:20 09:14:24.556 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 09:14:24.556 afmobi_core_init: SHARE 
+2020:09:20 09:49:19.482 afmobi_core_init: set phone info success
+2020:09:20 09:49:19.487 afmobi_os_mutex_create: db->mutex:0x7e1a0f20
+2020:09:20 09:49:19.487 afmobi_core_init: init database manage success 
+2020:09:20 09:49:19.492 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 09:49:19.492 afmobi_core_init: SHARE 
+2020:09:20 11:03:58.438 afmobi_core_init: set phone info success
+2020:09:20 11:03:58.440 afmobi_os_mutex_create: db->mutex:0x7e8d5610
+2020:09:20 11:03:58.441 afmobi_core_init: init database manage success 
+2020:09:20 11:03:58.445 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 11:03:58.447 afmobi_core_init: SHARE 
+2020:09:20 11:29:53.430 afmobi_core_init: set phone info success
+2020:09:20 11:29:53.435 afmobi_os_mutex_create: db->mutex:0x92b99460
+2020:09:20 11:29:53.435 afmobi_core_init: init database manage success 
+2020:09:20 11:29:53.443 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 11:29:53.443 afmobi_core_init: SHARE 
+2020:09:20 13:56:42.069 afmobi_core_init: set phone info success
+2020:09:20 13:56:42.086 afmobi_os_mutex_create: db->mutex:0x81ee84a8
+2020:09:20 13:56:42.087 afmobi_core_init: init database manage success 
+2020:09:20 13:56:42.093 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 13:56:42.094 afmobi_core_init: SHARE 
+2020:09:20 14:30:14.352 afmobi_core_init: set phone info success
+2020:09:20 14:30:14.353 afmobi_os_mutex_create: db->mutex:0x812db468
+2020:09:20 14:30:14.354 afmobi_core_init: init database manage success 
+2020:09:20 14:30:14.361 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 14:30:14.362 afmobi_core_init: SHARE 
+2020:09:20 15:16:59.225 afmobi_core_init: set phone info success
+2020:09:20 15:16:59.231 afmobi_os_mutex_create: db->mutex:0x81eeb4d8
+2020:09:20 15:16:59.232 afmobi_core_init: init database manage success 
+2020:09:20 15:16:59.237 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 15:16:59.238 afmobi_core_init: SHARE 
+2020:09:20 15:55:30.779 afmobi_core_init: set phone info success
+2020:09:20 15:55:30.780 afmobi_os_mutex_create: db->mutex:0x812c94d0
+2020:09:20 15:55:30.780 afmobi_core_init: init database manage success 
+2020:09:20 15:55:30.784 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 15:55:30.785 afmobi_core_init: SHARE 
+2020:09:20 16:25:38.009 afmobi_core_init: set phone info success
+2020:09:20 16:25:38.015 afmobi_os_mutex_create: db->mutex:0x813ce4a0
+2020:09:20 16:25:38.015 afmobi_core_init: init database manage success 
+2020:09:20 16:25:38.020 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 16:25:38.020 afmobi_core_init: SHARE 
+2020:09:20 16:55:43.404 afmobi_core_init: set phone info success
+2020:09:20 16:55:43.410 afmobi_os_mutex_create: db->mutex:0x92b94440
+2020:09:20 16:55:43.411 afmobi_core_init: init database manage success 
+2020:09:20 16:55:43.423 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 16:55:43.426 afmobi_core_init: SHARE 
+2020:09:20 18:20:38.185 afmobi_core_init: set phone info success
+2020:09:20 18:20:38.193 afmobi_os_mutex_create: db->mutex:0x812414d8
+2020:09:20 18:20:38.194 afmobi_core_init: init database manage success 
+2020:09:20 18:20:38.208 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 18:20:38.209 afmobi_core_init: SHARE 
+2020:09:20 18:53:20.731 afmobi_core_init: set phone info success
+2020:09:20 18:53:20.740 afmobi_os_mutex_create: db->mutex:0x81eec538
+2020:09:20 18:53:20.741 afmobi_core_init: init database manage success 
+2020:09:20 18:53:20.747 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 18:53:20.748 afmobi_core_init: SHARE 
+2020:09:20 19:24:05.283 afmobi_core_init: set phone info success
+2020:09:20 19:24:05.284 afmobi_os_mutex_create: db->mutex:0x81e5e4b8
+2020:09:20 19:24:05.285 afmobi_core_init: init database manage success 
+2020:09:20 19:24:05.290 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 19:24:05.290 afmobi_core_init: SHARE 
+2020:09:20 19:54:12.193 afmobi_core_init: set phone info success
+2020:09:20 19:54:12.195 afmobi_os_mutex_create: db->mutex:0x81ef14d0
+2020:09:20 19:54:12.195 afmobi_core_init: init database manage success 
+2020:09:20 19:54:12.200 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 19:54:12.200 afmobi_core_init: SHARE 
+2020:09:20 20:27:52.381 afmobi_core_init: set phone info success
+2020:09:20 20:27:52.386 afmobi_os_mutex_create: db->mutex:0x80f56498
+2020:09:20 20:27:52.386 afmobi_core_init: init database manage success 
+2020:09:20 20:27:52.392 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 20:27:52.392 afmobi_core_init: SHARE 
+2020:09:20 20:49:06.209 afmobi_core_init: set phone info success
+2020:09:20 20:49:06.216 afmobi_os_mutex_create: db->mutex:0x810dd4a8
+2020:09:20 20:49:06.217 afmobi_core_init: init database manage success 
+2020:09:20 20:49:06.223 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 20:49:06.226 afmobi_core_init: SHARE 
+2020:09:20 21:20:09.105 afmobi_core_init: set phone info success
+2020:09:20 21:20:09.107 afmobi_os_mutex_create: db->mutex:0x81f6c568
+2020:09:20 21:20:09.107 afmobi_core_init: init database manage success 
+2020:09:20 21:20:09.139 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 21:20:09.139 afmobi_core_init: SHARE 
+2020:09:20 21:51:38.283 afmobi_core_init: set phone info success
+2020:09:20 21:51:38.287 afmobi_os_mutex_create: db->mutex:0x8124b4b8
+2020:09:20 21:51:38.287 afmobi_core_init: init database manage success 
+2020:09:20 21:51:38.300 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 21:51:38.301 afmobi_core_init: SHARE 
+2020:09:20 22:21:42.089 afmobi_core_init: set phone info success
+2020:09:20 22:21:42.095 afmobi_os_mutex_create: db->mutex:0x80fed4a0
+2020:09:20 22:21:42.096 afmobi_core_init: init database manage success 
+2020:09:20 22:21:42.106 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 22:21:42.107 afmobi_core_init: SHARE 
+2020:09:20 22:52:24.171 afmobi_core_init: set phone info success
+2020:09:20 22:52:24.172 afmobi_os_mutex_create: db->mutex:0x812c94c0
+2020:09:20 22:52:24.173 afmobi_core_init: init database manage success 
+2020:09:20 22:52:24.179 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 22:52:24.179 afmobi_core_init: SHARE 
+2020:09:20 22:59:28.743 afmobi_core_init: set phone info success
+2020:09:20 22:59:28.747 afmobi_os_mutex_create: db->mutex:0x80cb0e40
+2020:09:20 22:59:28.748 afmobi_core_init: init database manage success 
+2020:09:20 22:59:28.768 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:20 22:59:28.768 afmobi_core_init: SHARE 
+2020:09:21 08:55:49.100 afmobi_core_init: set phone info success
+2020:09:21 08:55:49.102 afmobi_os_mutex_create: db->mutex:0x80fd4488
+2020:09:21 08:55:49.102 afmobi_core_init: init database manage success 
+2020:09:21 08:55:49.109 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 08:55:49.110 afmobi_core_init: SHARE 
+2020:09:21 09:49:28.629 afmobi_core_init: set phone info success
+2020:09:21 09:49:28.631 afmobi_os_mutex_create: db->mutex:0x8105d4a0
+2020:09:21 09:49:28.631 afmobi_core_init: init database manage success 
+2020:09:21 09:49:28.636 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 09:49:28.637 afmobi_core_init: SHARE 
+2020:09:21 10:20:44.587 afmobi_core_init: set phone info success
+2020:09:21 10:20:44.594 afmobi_os_mutex_create: db->mutex:0x81268408
+2020:09:21 10:20:44.594 afmobi_core_init: init database manage success 
+2020:09:21 10:20:44.601 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 10:20:44.601 afmobi_core_init: SHARE 
+2020:09:21 10:51:44.172 afmobi_core_init: set phone info success
+2020:09:21 10:51:44.178 afmobi_os_mutex_create: db->mutex:0x92b9b468
+2020:09:21 10:51:44.179 afmobi_core_init: init database manage success 
+2020:09:21 10:51:44.188 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 10:51:44.189 afmobi_core_init: SHARE 
+2020:09:21 11:22:56.482 afmobi_core_init: set phone info success
+2020:09:21 11:22:56.485 afmobi_os_mutex_create: db->mutex:0x81f71490
+2020:09:21 11:22:56.486 afmobi_core_init: init database manage success 
+2020:09:21 11:22:56.492 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 11:22:56.492 afmobi_core_init: SHARE 
+2020:09:21 11:53:16.662 afmobi_core_init: set phone info success
+2020:09:21 11:53:16.668 afmobi_os_mutex_create: db->mutex:0x812f0420
+2020:09:21 11:53:16.668 afmobi_core_init: init database manage success 
+2020:09:21 11:53:16.675 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 11:53:16.675 afmobi_core_init: SHARE 
+2020:09:21 12:24:01.257 afmobi_core_init: set phone info success
+2020:09:21 12:24:01.262 afmobi_os_mutex_create: db->mutex:0x92bb0e70
+2020:09:21 12:24:01.263 afmobi_core_init: init database manage success 
+2020:09:21 12:24:01.268 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 12:24:01.268 afmobi_core_init: SHARE 
+2020:09:21 13:32:53.183 afmobi_core_init: set phone info success
+2020:09:21 13:32:53.190 afmobi_os_mutex_create: db->mutex:0x8206c4b8
+2020:09:21 13:32:53.191 afmobi_core_init: init database manage success 
+2020:09:21 13:32:53.195 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 13:32:53.195 afmobi_core_init: SHARE 
+2020:09:21 14:03:07.462 afmobi_core_init: set phone info success
+2020:09:21 14:03:07.486 afmobi_os_mutex_create: db->mutex:0x81f6c4c0
+2020:09:21 14:03:07.488 afmobi_core_init: init database manage success 
+2020:09:21 14:03:07.564 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 14:03:07.565 afmobi_core_init: SHARE 
+2020:09:21 14:33:11.784 afmobi_core_init: set phone info success
+2020:09:21 14:33:11.793 afmobi_os_mutex_create: db->mutex:0x80eabeb8
+2020:09:21 14:33:11.794 afmobi_core_init: init database manage success 
+2020:09:21 14:33:11.798 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 14:33:11.799 afmobi_core_init: SHARE 
+2020:09:21 15:07:58.637 afmobi_core_init: set phone info success
+2020:09:21 15:07:58.643 afmobi_os_mutex_create: db->mutex:0x81eec4f8
+2020:09:21 15:07:58.643 afmobi_core_init: init database manage success 
+2020:09:21 15:07:58.649 db_file_is_exist fd=0 path=/data/user/0/com.afmobi.boomplayer
+2020:09:21 15:07:58.649 afmobi_core_init: SHARE 
